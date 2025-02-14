@@ -1,2 +1,1 @@
 # EDCSDKsampleSubin
-Edit by subin
