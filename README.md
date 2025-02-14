@@ -1,5 +1,3 @@
 # EDCSDKsampleSubin
 
-SUBIN request 6th
-
-add sshkey
+SUBIN request 7th
