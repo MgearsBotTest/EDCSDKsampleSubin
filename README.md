@@ -1,3 +1,3 @@
 # EDCSDKsampleSubin
 
-SUBIN request 7th
+SUBIN request 8th
