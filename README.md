@@ -1,3 +1,3 @@
 # EDCSDKsampleSubin
 
-SUBIN request 9th
+new branch
